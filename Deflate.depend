@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589735070 source:c:\users\lem_l\onedrive\masaüstü\yeni klasör\yeni klasör\deflate\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
