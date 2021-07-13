@@ -1,1 +1,1 @@
-# Deflat-LZ77SikistirmaAlgoritmalari
+# Deflate-LZ77SikistirmaAlgoritmalari
